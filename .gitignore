@@ -1,0 +1,7 @@
+node_modules/
+dist/
+functions/
+package/
+package-lock/
+README/
+src/components-demo/
